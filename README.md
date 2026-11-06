@@ -129,6 +129,8 @@ olist-analytics/
 - `analysis` — запросы для решения аналитических задач.
 - `dashboard` — материалы проекта, связанные с визуализацией.
 
-## 9. Результат проекта
+## 9. Дашборд
+
+https://datalens.ru/epk5xchlgtv6x-olist-analiz-kachestva-dostavki?_share_link=org
 
 
