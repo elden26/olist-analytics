@@ -1,4 +1,3 @@
-
 CREATE TABLE public.mart AS
 
 WITH order_seller_pairs AS (
