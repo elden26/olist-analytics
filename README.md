@@ -133,4 +133,5 @@ olist-analytics/
 
 https://datalens.ru/epk5xchlgtv6x-olist-analiz-kachestva-dostavki?_share_link=org
 
+https://datalens.yandex/epk5xchlgtv6x?_share_link=public
 
